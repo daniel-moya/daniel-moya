@@ -1,25 +1,17 @@
 ### Hi there 👋
 
-<!--
-**moyadaniel/moyadaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 I’m currently learning
+Laravel Framework
 
-Here are some ideas to get you started:
+## 💬 I can help you with:
 
+Responsive HTML & CSS(Sass, Bootstrap).
+Website Mobile Optimization.
+JavaScript, React/Redux/Mobx, Gatsby.
+High-level user experience.
+Performance Improvements
+SEO Improvements
 
-- 🌱 I’m currently learning ...
-      Laravel Framework
-- 👯 I’m looking to collaborate on ...
-      
-- 💬 Ask me about ...
-      I can help you.
-
-      Responsive HTML & CSS(Sass, Bootstrap).
-      Website Mobile Optimization.
-      JavaScript, React/Redux/Mobx, Gatsby.
-      Serverless Architecture
-      High-level user experience.
-      Performance Improvements
-      SEO Improvements
-- 📫 How to reach me: ...
-    https://www.linkedin.com/in/daniel-moya/
--->
+## 📫 You can reach me on:
+Linkedin: https://www.linkedin.com/in/daniel-moya/
+Wesbite: https://danielmoya.com.ve/
