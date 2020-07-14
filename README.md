@@ -1,3 +1,5 @@
+![Banner](https://github.com/moyadaniel/moyadaniel/blob/master/Banner.png)
+
 ### About Me
 Hi, I'm Daniel Moya, a Systems Engineer who loves building Full Stack products.
 
@@ -16,5 +18,6 @@ Hi, I'm Daniel Moya, a Systems Engineer who loves building Full Stack products.
 - Laravel Framework
 
 ## 📫 You can reach me on:
-Linkedin: https://www.linkedin.com/in/daniel-moya/
-Wesbite: https://danielmoya.com.ve/
+- Linkedin: https://www.linkedin.com/in/daniel-moya/
+- Wesbite: https://danielmoya.com.ve/
+- Phone: +58 412 1954938
