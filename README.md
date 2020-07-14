@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 ## 🌱 I’m currently learning
-Laravel Framework
+- Gatsby Themes
+- Google Cloud Platform
+- Laravel Framework
 
 ## 💬 I can help you with:
 
