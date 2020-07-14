@@ -1,4 +1,4 @@
-![Banner](https://github.com/moyadaniel/moyadaniel/blob/master/Banner.png)
+![Banner](https://github.com/moyadaniel/moyadaniel/blob/master/banner.png)
 
 ### About Me
 Hi, I'm Daniel Moya, a Systems Engineer who loves building Full Stack products.
