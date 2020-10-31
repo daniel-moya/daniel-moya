@@ -15,7 +15,7 @@ Hi, I'm Daniel Moya, a Systems Engineer who loves building Full Stack products.
 ## 🌱 I’m currently learning
 - Gatsby Themes
 - Google Cloud Platform
-- Laravel Framework
+- Symfony
 
 ## 📫 You can reach me on:
 - Linkedin: https://www.linkedin.com/in/daniel-moya/
