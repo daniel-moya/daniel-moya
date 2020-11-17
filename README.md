@@ -13,8 +13,8 @@ Hi, I'm Daniel Moya, a Systems Engineer who loves building Full Stack products.
 - SEO Improvements
 
 ## 🌱 I’m currently learning
-- Gatsby Themes
 - Google Cloud Platform
+- Terraform
 - Symfony
 
 ## 📫 You can reach me on:
