@@ -19,5 +19,5 @@ Hi, I'm Daniel Moya, a Systems Engineer who loves building Full Stack products.
 
 ## 📫 You can reach me on:
 - Linkedin: https://www.linkedin.com/in/daniel-moya/
-- Wesbite: https://danielmoya.com.ve/
+- Wesbite: https://moyadaniel.com
 - Phone: +58 412 1954938
