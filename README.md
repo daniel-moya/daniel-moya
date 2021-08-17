@@ -14,7 +14,7 @@ Hi, I'm Daniel Moya, a Systems Engineer who loves building Full Stack products.
 
 ## 🌱 I’m currently learning
 - Google Cloud Platform
-- Terraform
+- Kubernetes
 - Symfony
 
 ## 📫 You can reach me on:
