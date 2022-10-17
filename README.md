@@ -5,17 +5,21 @@ Hi, I'm Daniel Moya, a Systems Engineer who loves building Full Stack products.
 
 ## 💬 I can help you with
 
-- Responsive HTML & CSS(Sass, Bootstrap).
-- Website Mobile Optimization.
-- JavaScript, React/Redux/Mobx, Gatsby.
-- High-level user experience.
-- Performance Improvements
-- SEO Improvements
+- Frontend
+  - Responsive HTML & CSS(Sass, Bootstrap).
+  - Website Mobile Optimization.
+  - JavaScript, React/Redux/Mobx, Gatsby.
+  - High-level user experience.
+  - Performance Improvements
+  - SEO Improvements
+  - Cross platform mobile development
+- Backend 
+  - Symfony
+  
 
 ## 🌱 I’m currently learning
 - Google Cloud Platform
 - Kubernetes
-- Symfony
 
 ## 📫 You can reach me on:
 - Linkedin: https://www.linkedin.com/in/daniel-moya/
