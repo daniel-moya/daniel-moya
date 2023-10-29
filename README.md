@@ -2,7 +2,7 @@
 
 ### About Me
 
-Hi, I'm a full stack software engineer with 4.5 years of experience using agile methodologies to collectively build and maintain stable and great quality software solutions.
+I’m a Systems engineer working as a remote full-stack software engineer with experience in agile environments to collectively build, enhance, and maintain stable software solutions (Monolith & Microservices) while keeping good code quality with code reviews and coverage on tests. I’m proficient in Javascript, React, NodeJS, Symphony and GCP. Experienced in financial, mobility, education, e-learning, and SaaS industry.
 
 📫 You can reach me on:
 - Email: danielmoya.dev@gmail.com
@@ -19,14 +19,14 @@ Hi, I'm a full stack software engineer with 4.5 years of experience using agile 
 * Php
 * Python
   
-### Technologies
-* **Frontend**: React, React Hooks, Redux, Mobx.
-* **Mobile**: React Native, Sass, Bootstrap.
-* **Backend**: Symphony, APIPlatform, NodeJs, Firebase.
+### Technologies and frameworks
+* **Front end**: React, React Hooks, Redux, Mobx, jQuery, Sass, Bootstrap.
+* **Mobile**: React Native, Android Studio, Xcode.
+* **Back end**: SSymphony, NodeJs, API Platform, Firebase, Mailgun.
 * **Database**: Doctrine, MySql, MariaDB, PostgreSQL.
 * **CI/CD**: Git, Github, CircleCi, Github Actions.
-* **Testing**: Jest, React Test Renderer, PhpUnit, Codeception, Cypress.
-* **Build**: Docker, Fastlane, Gradle.
+* **Testing**: est, React Test Renderer, PhpUnit, Codeception, Cypress, Selenium.
+* **Build**: Babel, Webpack, Docker, Fastlane, Gradle.
 * **Deploy**: Google Cloud Platform.
 
 ### Tools
