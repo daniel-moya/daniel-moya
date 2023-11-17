@@ -1,4 +1,4 @@
-![Banner](https://github.com/moyadaniel/moyadaniel/blob/master/banner.png)
+![banner](https://github.com/daniel-moya/daniel-moya/assets/20147650/4aa91b37-81bb-4c9c-b997-e6c440895f43)
 
 ### About Me
 
