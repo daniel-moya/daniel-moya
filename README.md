@@ -1,4 +1,5 @@
-![banner](https://github.com/daniel-moya/daniel-moya/assets/20147650/4aa91b37-81bb-4c9c-b997-e6c440895f43)
+![Social Media - 9](https://github.com/daniel-moya/daniel-moya/assets/20147650/b8f4427a-86ef-493b-b405-09cff58653eb)
+
 
 ### About Me
 
