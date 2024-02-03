@@ -17,25 +17,16 @@ I have experience working in agile environments to collectively build, improve, 
 * Html
 * Css
 * Javascript
-* Typescript
+* Go
 * Php
 * Python
   
 ### Technologies and frameworks
 * **Front end**: React, React Hooks, Redux, Mobx, jQuery, Sass, Bootstrap.
-* **Mobile**: React Native, Android Studio, Xcode.
-* **Back end**: SSymphony, NodeJs, API Platform, Firebase, Mailgun.
+* **Mobile**: React Native, Kotlin, Android Studio, Xcode.
+* **Back end**: Symphony, NodeJs, API Platform, Firebase, Mailgun.
 * **Database**: Doctrine, MySql, MariaDB, PostgreSQL.
 * **CI/CD**: Git, Github, CircleCi, Github Actions.
 * **Testing**: est, React Test Renderer, PhpUnit, Codeception, Cypress, Selenium.
 * **Build**: Babel, Webpack, Docker, Fastlane, Gradle.
 * **Deploy**: GCP, AWS.
-
-### Tools
-* **IDE & Editors**: VSCode, PhpStorm, Webstorm, PyCharm.
-* **Clients**: HeidiSQL, MobaXterm.
-* **Agile**: Jira, Slack, Microsoft Teams.
-  
-
-### 🌱 I’m currently learning
-- AI Recommendation Algorithms
