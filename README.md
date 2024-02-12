@@ -1,7 +1,5 @@
-![Azul Blanco Abstracto Tecnología LinkedIn Banner](https://github.com/daniel-moya/daniel-moya/assets/20147650/b4b6d1e6-57c2-4d94-9ec0-39e752f119ab)
 
-
-
+![Azul Blanco Abstracto Tecnología LinkedIn Banner (2)](https://github.com/daniel-moya/daniel-moya/assets/20147650/7b8f1fa2-3fc7-4b41-bfb3-92d4741bfd05)
 
 ### About Me
 
