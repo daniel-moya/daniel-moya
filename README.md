@@ -1,4 +1,5 @@
-![Social Media - 8](https://github.com/daniel-moya/daniel-moya/assets/20147650/e6b881bc-1e80-453b-b88b-7b6061c4b318)
+![Azul Blanco Abstracto Tecnología LinkedIn Banner](https://github.com/daniel-moya/daniel-moya/assets/20147650/b4b6d1e6-57c2-4d94-9ec0-39e752f119ab)
+
 
 
 
