@@ -29,5 +29,3 @@ I have experience working in agile environments to collectively build, improve, 
 * **Testing**: est, React Test Renderer, PhpUnit, Codeception, Cypress, Selenium.
 * **Build**: Babel, Webpack, Docker, Fastlane, Gradle.
 * **Deploy**: GCP, AWS.
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-moya)](https://github.com/anuraghazra/github-readme-stats)
