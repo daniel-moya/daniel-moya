@@ -3,9 +3,9 @@
 
 ### About Me
 
-I’m a Systems Engineer with 5 years of office and remote work experience in the financial, mobility, e-learning, and SaaS industry. I’m proficient in web and mobile development (Git, Github, Gitlab), frontend (Html, Css, Javascript, Typescript, React, React Native, Android, iOS), backend (NodeJS, Php, Symphony, Docker), databases (MySQL, MariaDB, Postgresql, MongoDB), testing (Jest, Cypress, Php unit, Codeception, Selenium), DevOps (CircleCi, Github Actions) and cloud solutions (Firebase, GCP, AWS).
+I'm a Systems Engineer with 6 years of experience across finance, mobility, e-learning, and SaaS. Passionate about the intersection between AI and SaaS, I actively seek out organizations that prioritize diversity and recognize the talents and experiences of their team members, transcending barriers of race, gender, political inclinations, and background. Let's connect to explore potential collaborations in these exciting and inclusive fields!
 
-I have experience working in agile environments to collectively build, improve, and maintain stable software solutions turning legacy applications into modern architectures, while keeping code quality.
+I’m proficient in web and mobile development (Git, Github, Gitlab), frontend (Html, Css, Javascript, Typescript, React, React Native, Android, iOS), backend (NodeJS, Php, Symphony, Docker), databases (MySQL, MariaDB, Postgresql, MongoDB), testing (Jest, Cypress, Php unit, Codeception, Selenium), DevOps (CircleCi, Github Actions) and cloud solutions (Firebase, GCP, AWS).
 
 📫 You can reach me on:
 - Email: danielmoya.dev@gmail.com
