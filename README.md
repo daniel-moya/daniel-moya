@@ -15,15 +15,15 @@ I’m proficient in web and mobile development (Git, Github, Gitlab), frontend (
 ### Programming Languages
 * Html
 * Css
-* Javascript
-* Go
+* Javascript/Typescript
+* Golang
 * Php
 * Python
   
 ### Technologies and frameworks
 * **Front end**: React, React Hooks, Redux, Mobx, jQuery, Sass, Bootstrap.
 * **Mobile**: React Native, Kotlin, Android Studio, Xcode.
-* **Back end**: Symphony, NodeJs, API Platform, Firebase, Mailgun.
+* **Back end**: Symphony, NodeJs, API Platform, Firebase, Kubernetes, Prometheus, Grafana.
 * **Database**: Doctrine, MySql, MariaDB, PostgreSQL.
 * **CI/CD**: Git, Github, CircleCi, Github Actions.
 * **Testing**: est, React Test Renderer, PhpUnit, Codeception, Cypress, Selenium.
