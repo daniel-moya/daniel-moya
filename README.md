@@ -21,11 +21,11 @@ I’m proficient in web and mobile development (Git, Github, Gitlab), frontend (
 * Python
   
 ### Technologies and frameworks
-* **Front end**: React, React Hooks, Redux, Mobx, jQuery, Sass, Bootstrap.
-* **Mobile**: React Native, Kotlin, Android Studio, Xcode.
-* **Back end**: Symphony, NodeJs, API Platform, Firebase, Kubernetes, Prometheus, Grafana.
-* **Database**: Doctrine, MySql, MariaDB, PostgreSQL.
-* **CI/CD**: Git, Github, CircleCi, Github Actions.
-* **Testing**: est, React Test Renderer, PhpUnit, Codeception, Cypress, Selenium.
-* **Build**: Babel, Webpack, Docker, Fastlane, Gradle.
-* **Deploy**: GCP, AWS.
+* **Front end**: React, NextJs, Redux, Mobx.
+* **Mobile**: React Native, Kotlin.
+* **Back end**: Symphony, NodeJs, Gin.
+* **Database**: MySql, MariaDB, PostgreSQL.
+* **CI/CD**: CircleCi, Github Actions, Terraform, Ansible.
+* **Testing**: Jest, Cypress, Selenium.
+* **Build**: Babel, Webpack, Docker, Kubernetes, Prometheus, Grafana, Fastlane, Gradle.
+* **Deploy**: GCP, AWS, Azure.
