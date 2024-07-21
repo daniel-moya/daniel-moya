@@ -1,5 +1,4 @@
-
-![banner3](https://github.com/user-attachments/assets/0521952f-743f-4cfc-b062-f27e786bf0c2)
+![banner4](https://github.com/user-attachments/assets/46c8667e-0b09-43c2-ab9f-e4b36cc3f3a8)
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Daniel_Moya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-moya/)]( https://www.linkedin.com/in/daniel-moya/)
