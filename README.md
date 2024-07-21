@@ -1,5 +1,6 @@
 
-![Azul Blanco Abstracto Tecnología LinkedIn Banner (2)](https://github.com/daniel-moya/daniel-moya/assets/20147650/7b8f1fa2-3fc7-4b41-bfb3-92d4741bfd05)
+![banner3](https://github.com/user-attachments/assets/0521952f-743f-4cfc-b062-f27e786bf0c2)
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-Daniel_Moya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-moya/)]( https://www.linkedin.com/in/daniel-moya/)
 [![Gmail Badge](https://img.shields.io/badge/-danielmoya.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielmoya.dev@gmail.com)](mailto:danielmoya.dev@gmail.com)
