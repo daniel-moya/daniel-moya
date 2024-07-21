@@ -7,7 +7,7 @@
 
 ### About Me
 
-I’m a fullstack software engineer with 6 years of experience in the financial, mobility, e-learning, and SaaS industry.
+I’m a fullstack software engineer with 6 years of experience in the financial, mobility, e-learning, and SaaS industry. I have Strong foundations using Javascript and Typescript with ReactJs and Astro. I also build backend service using NodeJS, and Golang. 
 
 📫 You can reach me on:
 - Email: danielmoya.dev@gmail.com
