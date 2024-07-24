@@ -4,6 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Daniel_Moya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-moya/)]( https://www.linkedin.com/in/daniel-moya/)
 [![Gmail Badge](https://img.shields.io/badge/-danielmoya.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielmoya.dev@gmail.com)](mailto:danielmoya.dev@gmail.com)
 [![YouTube Badge](https://img.shields.io/badge/-Daniel_Moya-702963?style=flat-square&logo=appveyor&logoColor=white&link=https://moyadaniel.com/)](https://moyadaniel.com/)
+[![X Badge](https://img.shields.io/badge/-Daniel_Moya-000000?style=flat-square&logo=x&logoColor=white&link=[https://moyadaniel.com/](https://x.com/dev_moya))](https://moyadaniel.com/)
 
 ### About Me
 
