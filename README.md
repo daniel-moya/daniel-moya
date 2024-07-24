@@ -12,6 +12,7 @@ I’m a fullstack software engineer, I've worked in  the financial, mobility, e-
 📫 You can reach me on:
 - Email: danielmoya.dev@gmail.com
 - Linkedin: https://www.linkedin.com/in/daniel-moya/
+- X: https://x.com/dev_moya
 - Wesbite: https://moyadaniel.com
 
 ### Programming Languages
