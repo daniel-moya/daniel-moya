@@ -8,7 +8,7 @@
 
 ### About Me
 
-I’m a fullstack software engineer, I've worked in  the financial, mobility, e-learning, and SaaS industry. Frontend: Javascript, Typescript, ReactJs,  Backend: NodeJS, and Golang. 
+Software Engineer, 6 years of experience, solid experience using Javascript frameworks, Golang for scalable APIs on distributed systems. Currently focused on networking algorithms and scalability
 
 📫 You can reach me on:
 - Email: danielmoya.dev@gmail.com
