@@ -9,21 +9,21 @@ Software Engineer, 6 years of experience, solid experience using Javascript fram
 📫 You can reach me on:
 - Email: danielmoya.dev@gmail.com
 - Linkedin: https://www.linkedin.com/in/daniel-moya/
-- X: https://x.com/dev_moya
 - Wesbite: https://moyadaniel.com
 
 ### Programming Languages
 * Javascript/Typescript
 * Golang
 * Php
+* Ruby
 * Python
   
 ### Technologies and frameworks
 * **Front end**: React, NextJs, Astro.
 * **Mobile**: React Native.
-* **Back end**: Symphony, NodeJs, Gin.
-* **Database**: MySql, MariaDB, PostgreSQL.
-* **CI/CD**: CircleCi, Github Actions, Terraform, Ansible.
-* **Testing**: Jest, Cypress, Selenium.
-* **Build**: Babel, Webpack, Docker, Kubernetes, Prometheus, Grafana, Fastlane, Gradle.
-* **Deploy**: GCP, AWS, Azure.
+* **Back end**: Symphony, NodeJs, Gin, Rails.
+* **Database**: MySql, MariaDB, PostgreSQL, Elasticsearch.
+* **CI/CD**: CircleCi, Github Actions, Terraform.
+* **Testing**: Jest, Playwright, Cypress, Selenium.
+* **Infra**: Docker, Kubernetes, Prometheus, Grafana, Fastlane, Gradle.
+* **Cloud**: GCP, AWS, Azure.
